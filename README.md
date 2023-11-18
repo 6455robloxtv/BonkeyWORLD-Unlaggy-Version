@@ -1,19 +1,6 @@
-# BonziWORLD
-
-Just made a revival of the BonziWORLD classic v1.4.2 server.
-New shoutouts to:
-- HeyJoeWay
-- Seamus
-- Loliest Huhytre
-- DonutScout
-- BonziCITIZEN
-- and so much more
-- No shoutouts for bw.org assholes because they are responible for contributing to the hell hole named bonziworld.org
-
-This shitty server i made should be used by bonziworld.com users, i hope.
-
-I am sorry if this server doesn't have rules. I want users to be careful.
-
+# bonziworld.com-edited
+Just an random BonziWORLD server.
+This should be for bonziworld.com users i hope.
 ## Dependencies
 - Node.js and npm
 - Ruby
@@ -24,8 +11,8 @@ I am sorry if this server doesn't have rules. I want users to be careful.
 ## Setup
 In a terminal/command prompt, navigate to where you'd like BonziWORLD to be placed and run the following:
 ```
-git clone https://github.com/ItzUltraChace/BonziWORLD-v1.4.2
-cd BonziWORLD v1.4.2
+git clone https://github.com/ItzUltraChace/bonziworld.com-edited
+cd bonziworld.com-edited
 ```
 
 ### Client
